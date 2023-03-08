@@ -1,0 +1,23 @@
+#datetime-picker {
+    width: 200px;
+    height: 35px;
+}
+
+.timer {
+    display: flex;
+    margin-top: 20px;
+    gap: 20px;
+    /* flex-wrap: wrap; */
+}
+
+.value {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    font-size: 40px;
+}
+
+button {
+    width: 75px;
+    height: 35px;
+}
